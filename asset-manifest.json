@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/game/static/css/main.29c9464e.css",
-    "main.js": "/game/static/js/main.2c20c596.js",
+    "main.js": "/game/static/js/main.2902d34d.js",
     "static/js/453.b60a12c0.chunk.js": "/game/static/js/453.b60a12c0.chunk.js",
     "index.html": "/game/index.html",
     "main.29c9464e.css.map": "/game/static/css/main.29c9464e.css.map",
-    "main.2c20c596.js.map": "/game/static/js/main.2c20c596.js.map",
+    "main.2902d34d.js.map": "/game/static/js/main.2902d34d.js.map",
     "453.b60a12c0.chunk.js.map": "/game/static/js/453.b60a12c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29c9464e.css",
-    "static/js/main.2c20c596.js"
+    "static/js/main.2902d34d.js"
   ]
 }
